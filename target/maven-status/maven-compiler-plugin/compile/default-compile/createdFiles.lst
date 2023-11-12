@@ -1,0 +1,9 @@
+com\packtpub\javaee8\jwt\JwtAuthz.class
+com\packtpub\javaee8\validation\BooksResource$Book.class
+com\packtpub\javaee8\tracing\OpenTracingContextInitializer.class
+com\packtpub\javaee8\health\EverythingOkHealthCheck.class
+com\packtpub\javaee8\jwt\JwtAuthzVerifier.class
+com\packtpub\javaee8\metrics\MetricsResource.class
+com\packtpub\javaee8\JAXRSConfiguration.class
+com\packtpub\javaee8\jwt\AuthenticationResource.class
+com\packtpub\javaee8\validation\BooksResource.class
